@@ -1,16 +1,7 @@
 # Bank Customer Churn Prediction
 In this project, I use supervised learning models to identify customers who are likely to churn in the future. Furthermore, I will analyze top factors that influence user retention. 
 
-### Customer Churn
-Occurs when customer stops using or buying a company's products or services. <br><br>
-
-Customer churn affects profitability, especially in industries where revenues are heavily dependent on subscriptions (e.g. banks, telephone and internet service providers, pay-TV companies, insurance firms, etc.), it is often because that acquiring a new customer cost much more than retaining the existing one.<br><br>
-
-Help Busines<br>
-1. Identify problem in it's services.
-2. Make correct strategic decisions that would lead to higher customer satisfication, and consequently higher customer retention. 
-
-### Project Overview
+## Project Overview
 
 The goal is to understand and predict customer churn for a bank. Specifically, initially perform __*EDA*__ to identify and visualize the factors contributing to customer churn, then build up __*Supervised Machine Learning*__ models to predict whether a customer will churn or not. <br><br>
 I use __*recall*__ to evaluate the model performance since correctly classifying the positive class( customers who will churn) is critical for a bank. 
@@ -22,3 +13,4 @@ __*Skills:*__ <br>
 
 __*Models Used:*__ <br>
 *Logistic Regression, Support Vector Machines, Random Forests, Gradient Boosting, XGBoost, and K Nearest Neighbours.*
+
